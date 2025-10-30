@@ -137,3 +137,6 @@ contract HealthRecords {
         return (rec.recordHash, rec.addedBy, rec.timestamp);
     }
 }
+
+contract address: 0xd9145CCE52D386f254917e481eB44e9943F39138
+"C:\Users\student\Pictures\Screenshots\rohit add.png"
