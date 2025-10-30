@@ -139,4 +139,6 @@ contract HealthRecords {
 }
 
 contract address: 0xd9145CCE52D386f254917e481eB44e9943F39138
-"C:\Users\student\Pictures\Screenshots\rohit add.png"
+<img width="1410" height="914" alt="rohit add" src="https://github.com/user-attachments/assets/fdb61388-925e-4ac9-9ea7-7d0f632cff69" />
+
+
